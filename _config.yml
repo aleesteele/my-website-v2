@@ -13,18 +13,39 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Frasco: Jekyll Starter Project"
-email: your-email@domain.com
+title: "Anne Lee Steele"
+email: aleesteele@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Quick starter project for Jekyll including full setup for gulp, Sass, Autoprefixer, Bourbon/Neat/Bitters, Browserify, imagemin, Browsersync, PostCSS etc.
+  Website for Anne Lee Steele
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ixkaito
-github_username:  ixkaito
+twitter_username: anneleesteele
+github_username:  aleesteele
 
-# Build settings
+collections:
+  posts:
+    title: Blog
+    output: true
+  portfolio:
+    title: Portfolio
+    output: true
+
+defaults:
+  - scope:
+      path: ''
+      type: 'posts'
+    values:
+      layout: post
+      permalink: '/blog/:slug/'
+  - scope:
+      path: ''
+      type: 'portfolio'
+    values:
+      layout: custom-blog
+      permalink: '/portfolio/:slug/'
+
 markdown: kramdown
-# theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

@@ -1,0 +1,42 @@
+/*==================================
+=               Bio                =
+==================================*/
+
+.bio {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-family: $font__roboto;
+  font-size: 1.1rem;
+
+  &-link, a {
+    color: $color__grey;
+    cursor: pointer;
+
+    &:hover {
+      color: $color__torquoise;
+      text-decoration: underline;
+    }
+  }
+
+  &-text {
+    width: 100%;
+    margin-right: 20px;
+
+    @include media-query('large') {
+      width: 50%;
+    }
+  }
+
+  &-photo {
+    width: 100%;
+    max-height: 70vh;
+    overflow-y: hidden;
+
+    @include media-query('large') {
+      width: 50%;
+    }
+  }
+}

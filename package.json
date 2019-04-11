@@ -1,5 +1,5 @@
 {
-  "name": "frasco",
+  "name": "aleesteele-website",
   "version": "0.8.8",
   "description": "Jekyll starter project including full setup for gulp, Sass, Autoprefixer, PostCSS, webpack, imagemin, Browsersync etc.",
   "main": "gulpfile.js",
@@ -37,28 +37,31 @@
   },
   "homepage": "https://ixkaito.github.io/frasco",
   "devDependencies": {
-    "autoprefixer": "^9.0.1",
+    "autoprefixer": "^9.5.1",
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
-    "browser-sync": "^2.24.6",
+    "browser-sync": "^2.26.3",
     "cryptiles": ">=4.1.2",
     "eslint-config-google": "^0.9.1",
-    "eslint-loader": "^2.1.0",
-    "gulp": "^3.9.1",
+    "eslint-loader": "^2.1.2",
+    "gulp": "^3.8.11",
     "gulp-babel": "^7.0.1",
     "gulp-eslint": "^5.0.0",
-    "gulp-imagemin": "^4.1.0",
+    "gulp-imagemin": "^5.0.3",
     "gulp-newer": "^1.4.0",
-    "gulp-plumber": "^1.2.0",
+    "gulp-plumber": "^1.2.1",
     "gulp-postcss": "^7.0.1",
-    "gulp-sass": "^4.0.1",
-    "gulp-watch": "^5.0.0",
-    "imagemin-pngquant": "^6.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1",
+    "imagemin-pngquant": "^6.0.1",
     "natives": "^1.1.6",
-    "require-dir": "^1.0.0",
+    "require-dir": "^1.2.0",
     "vinyl-named": "^1.1.0",
-    "webpack": "^4.16.1",
-    "webpack-stream": "^5.0.0",
-    "yargs": "^12.0.1"
+    "webpack": "^4.29.6",
+    "webpack-stream": "^5.2.1",
+    "yargs": "^12.0.5"
+  },
+  "dependencies": {
+    "acorn": "^6.1.1"
   }
 }

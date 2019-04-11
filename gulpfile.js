@@ -18,4 +18,5 @@ Object.keys(config.tasks).forEach(function (key) {
  * compile the sass, bundle the js, launch BrowserSync, and
  * watch files.
  */
+ 
 gulp.task('default', tasks);

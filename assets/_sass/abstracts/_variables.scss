@@ -1,0 +1,49 @@
+/*=================================
+=            Variables            =
+=================================*/
+
+@import './mixins';
+
+/*----------  Colors  ----------*/
+
+$color__black: #000000;
+$color__white: #ffffff;
+$color__torquoise: #3ec1a0;
+$color__grey: #828282;
+
+/*----------  Typography  ----------*/
+
+$font__roboto: 'Roboto', sans-serif;
+$font__avenir: 'Avenir', 'HelveticaNeue', 'Helvetica';
+
+
+/*----------  Images -----------*/
+
+$img__bio: '../images/bio/';
+
+/*----------  Structure  ----------*/
+
+$sizes__default: ('small', 'medium', 'large', 'xlarge');
+
+$breakpoints: (
+  'small': 0,
+  // 0
+    'medium': 37.5em,
+  // 600px
+    'large': 56.25em,
+  // 900px
+    'large-2': 68.75em,
+  // 1050px
+    'xlarge': 80em,
+  // 1280px
+    'xlarge-2': 90em// 1440px
+);
+
+/**
+ * Clearfix
+ */
+%clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
