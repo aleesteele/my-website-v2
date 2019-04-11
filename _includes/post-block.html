@@ -1,9 +1,10 @@
+{% assign posts = site.posts %}
+{% if page.title == 'Recent Work' %}
+  {% assign posts = site.portfolio %}
+{% endif %}
+
+{%- for post in posts -%}
 <ul class="post-list">
-  {% assign posts = site.posts %}
-  {% if page.collection == 'portfolio' %}
-    {% assign posts = site.portfolio %}
-  {% endif %}
-  {%- for post in site.posts -%}
   <li>
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <span class="post-meta">{{ post.date | date: date_format }}</span>

@@ -1,6 +1,6 @@
 ---
-layout: custom-blog
-title:  "Go away!!!!!!!!!"
+layout: post-portfolio
+title:  "Portfolio test post"
 date:   2019-02-03 00:56:34 +0900
 categories: jekyll update
 ---
