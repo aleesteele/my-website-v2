@@ -9,7 +9,7 @@
   margin-right: 50px;
   margin-left: 50px;
   font-family: $font__roboto;
-  font-size: 1.1rem;
+  // font-size: 0.5rem;
 
   &-link, a {
     color: $color__grey;
@@ -17,7 +17,7 @@
 
     &:hover {
       color: $color__torquoise;
-      text-decoration: underline;
+      // text-decoration: underline;
     }
   }
 

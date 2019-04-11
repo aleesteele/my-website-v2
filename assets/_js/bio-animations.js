@@ -13,7 +13,7 @@ const bioAnimations = () => {
       replacedPhoto.setAttribute('src', fullPhotoSlug);
 
       link.addEventListener('mouseout', function() {
-        let defaultPhoto = 'bhutan1.jpg';
+        let defaultPhoto = 'mountains.jpg';
         let defaultSlug = bioSlug + defaultPhoto;
 
         replacedPhoto.setAttribute('src', defaultSlug);

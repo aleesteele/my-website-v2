@@ -9,7 +9,7 @@ div.row-fluid a {
     margin-bottom: 0.6em;
 }
 
-.link {
+a {
     /* font-size: 2em; */
     /* font-weight: 300; */
     cursor: pointer;
@@ -18,21 +18,21 @@ div.row-fluid a {
     /* margin-bottom: 0.5em; */
 }
 
-.link.anim-destination {
+.anim-destination {
     display: inline-block;
     overflow: hidden;
     /* padding-right: 0.5em; */
     /* font-size: 2em; */
 }
 
-.link.anim-destination span {
+.anim-destination span {
     position: relative;
     display: inline-block;
     -webkit-transition: -webkit-transform 0.3s;
     transition: transform 0.3s;
 }
 
-.link.anim-destination span::before {
+.anim-destination span::before {
     position: absolute;
     white-space: nowrap;
     top: 100%;
@@ -40,17 +40,17 @@ div.row-fluid a {
     font-weight: 500;
 }
 
-.link.anim-destination:hover span, .link.anim-destination:focus span {
+.anim-destination:hover span, .link.anim-destination:focus span {
     -webkit-transform: translateY(-100%);
     transform: translateY(-100%);
 }
 
-.link.anim-test {
+.anim-test {
     font-weight: 400;
     color: #ddd;
 }
 
-.link.anim-test:after {
+.anim-test:after {
     position: absolute;
     content: attr(data-hover);
     color: black;
@@ -60,46 +60,46 @@ div.row-fluid a {
     transition: all .5s ease;
 }
 
-.link.anim-test:hover:after {
+.anim-test:hover:after {
     opacity: 0;
     -webkit-transform: scale(0.8);
     transform: scale(0.8);
 }
 
-.link.anim-iamhere {
+.anim-iamhere {
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
 }
 
-.link.anim-iamhere:hover {
+.anim-iamhere:hover {
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
     color: #e0e0e0;
 }
 
-.link.anim-classic {
+.anim-classic {
     border-bottom: 3px solid transparent;
     -webkit-transition: all .2s ease;
     transition: all .2s ease;
 }
 
-.link.anim-classic:hover {
+.anim-classic:hover {
     border-bottom: 3px solid #e0e0e0;
 }
 
-.link.anim-classicsub {
+.anim-classicsub {
     border-top: 3px solid transparent;
     border-bottom: 3px solid transparent;
     -webkit-transition: all .2s ease-in;
     transition: all .2s ease-in;
 }
 
-.link.anim-classicsub:hover {
+.anim-classicsub:hover {
     border-top: 3px solid #e0e0e0;
     border-bottom: 3px solid #e0e0e0;
 }
 
-.link.anim-fancysub:after {
+.anim-fancysub:after {
     content: '';
     position: absolute;
     top: -0.6em;
@@ -112,14 +112,14 @@ div.row-fluid a {
     transition: all .5s ease;
 }
 
-.link.anim-fancysub:hover:after {
+.anim-fancysub:hover:after {
     border-top: 0.1em solid #e0e0e0;
     border-bottom: 0.1em solid #e0e0e0;
     top: -0.1em;
     height: 1.2em;
 }
 
-.link.anim-fancywrench:after {
+.anim-fancywrench:after {
     content: '';
     position: absolute;
     top: 0em;
@@ -133,14 +133,14 @@ div.row-fluid a {
     transition: all .5s ease;
 }
 
-.link.anim-fancywrench:hover:after {
+.anim-fancywrench:hover:after {
     border-right: 0.1em solid #e0e0e0;
     border-left: 0.1em solid #e0e0e0;
     left: -4%;
     width: 104%;
 }
 
-.link.anim-lefttoright:after {
+.anim-lefttoright:after {
     content: '';
     display: block;
     width: 0;
@@ -149,11 +149,11 @@ div.row-fluid a {
     transition: all .5s ease;
 }
 
-.link.anim-lefttoright:hover:after {
+.anim-lefttoright:hover:after {
     width: 100%;
 }
 
-.link.anim-righttoleft:after {
+.anim-righttoleft:after {
     content: '';
     display: block;
     position: absolute;
@@ -164,11 +164,11 @@ div.row-fluid a {
     transition: all .5s ease;
 }
 
-.link.anim-righttoleft:hover:after {
+.anim-righttoleft:hover:after {
     width: 100%;
 }
 
-.link.anim-middleout:after {
+.anim-middleout:after {
     content: '';
     display: block;
     width: 0;
@@ -178,6 +178,6 @@ div.row-fluid a {
     transition: all .5s ease;
 }
 
-.link.anim-middleout:hover:after {
+.anim-middleout:hover:after {
     width: 100%;
 }
