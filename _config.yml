@@ -27,7 +27,7 @@ collections:
     title: Blog
     output: true
   portfolio:
-    title: Portfolio
+    title: Recent Work
     output: true
 
 defaults:
@@ -35,13 +35,13 @@ defaults:
       path: ''
       type: 'posts'
     values:
-      layout: post
+      layout: post-blog
       permalink: '/blog/:slug/'
   - scope:
       path: ''
       type: 'portfolio'
     values:
-      layout: custom-blog
+      layout: post-portfolio
       permalink: '/portfolio/:slug/'
 
 markdown: kramdown
