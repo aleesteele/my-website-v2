@@ -32,8 +32,6 @@ body {
   flex-direction: column;
 }
 
-
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
@@ -98,7 +96,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-  font-weight: $base-font-weight;
+  font-family: $font__raleway;
 }
 
 
@@ -107,15 +105,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: $color__grey;
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: darken($color__grey, 15%);
   }
 
   &:hover {
-    color: $text-color;
+    color: $color__torquoise;
     text-decoration: underline;
   }
 
@@ -133,8 +131,8 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
+  color: $color__grey;
+  border-left: 4px solid $color__lightgrey;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);
   letter-spacing: -1px;
@@ -153,7 +151,7 @@ blockquote {
 pre,
 code {
   @include relative-font-size(0.9375);
-  border: 1px solid $grey-color-light;
+  border: 1px solid $color__lightgrey;
   border-radius: 3px;
   background-color: #eef;
 }
@@ -183,7 +181,7 @@ pre {
     width: 16px;
     height: 16px;
     display: inline-block;
-    fill: #{$grey-color};
+    fill: #{$color__grey};
     padding-right: 5px;
     vertical-align: text-top;
 }
@@ -205,29 +203,30 @@ table {
   text-align: $table-text-align;
   color: lighten($text-color, 18%);
   border-collapse: collapse;
-  border: 1px solid $grey-color-light;
+  border: 1px solid $color__lightgrey;
   tr {
     &:nth-child(even) {
-      background-color: lighten($grey-color-light, 6%);
+      background-color: lighten($color__lightgrey, 6%);
     }
   }
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: lighten($grey-color-light, 3%);
-    border: 1px solid darken($grey-color-light, 4%);
+    background-color: lighten($color__lightgrey, 3%);
+    border: 1px solid darken($color__lightgrey, 4%);
     // border-bottom-color: darken($grey-color-light, 12%);
   }
   td {
-    border: 1px solid $grey-color-light;
+    border: 1px solid $color__lightgrey;
   }
 }
 
 /**
  * Wrapper
  */
-.wrapper {
+.wrapper,
+.blog-wrapper {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
   margin-right: auto;

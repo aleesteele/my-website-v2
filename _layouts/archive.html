@@ -2,7 +2,12 @@
 layout: default
 ---
 
-{{content }}
+<div class="archive-description">
+  {{content }}
+</div>
 
-
-{% include post-block.html %}
+{% if page.title == "Blog" %}
+<div class="post-list">
+  {% include post-block.html %}
+</div>
+{% endif %}
