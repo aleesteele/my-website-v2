@@ -32,7 +32,12 @@
     border: 1px $color__grey solid;
     color: $color__grey;
     font-size: $small-font-size;
+    margin-top: -1rem;
     padding: 0.2rem;
+  }
+
+  &__title {
+    margin-bottom: 0.3rem;
   }
 }
 
