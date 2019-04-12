@@ -6,12 +6,18 @@ const bioAnimations = () => {
   const bioSlug = '/assets/images/bio/';
 
   bioLinks.forEach(function(link) {
-    link.addEventListener('mouseover', function() {
-      let photoLink = link.getAttribute('photo_url');
-      let fullPhotoSlug = bioSlug + photoLink;
+    console.log('window width: ' + window.innerWidth);
+    let mobileWidth = 414;
+    if (window.innerWidth > mobileWidth) {
+      link.addEventListener('mouseover', function() {
+        let photoLink = link.getAttribute('photo_url');
+        let fullPhotoSlug = bioSlug + photoLink;
 
-      replacedPhoto.setAttribute('src', fullPhotoSlug);
-    });
+        replacedPhoto.setAttribute('src', fullPhotoSlug);
+      });
+    } else {
+      console.log('lol');
+    }
   });
 };
 
