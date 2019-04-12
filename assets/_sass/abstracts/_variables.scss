@@ -2,18 +2,25 @@
 =            Variables            =
 =================================*/
 
-@import './mixins';
-
 /*----------  Colors  ----------*/
 
 $color__black: #000000;
 $color__white: #ffffff;
 $color__torquoise: #3ec1a0;
+$color__darktorquoise: #3cb295;
 $color__grey: #828282;
+$color__lightgrey: lighten($color__grey, 40%);
+$color__darkgrey: darken($color__grey, 25%);
+
+$text-color:       #111 !default;
+$background-color: #fdfdfd !default;
+$brand-color:      #2a7ae2 !default;
+
 
 /*----------  Typography  ----------*/
 
 $font__roboto: 'Roboto', sans-serif;
+$font__raleway: 'Raleway', sans-serif;
 $font__avenir: 'Avenir', 'HelveticaNeue', 'Helvetica';
 
 
@@ -39,11 +46,28 @@ $breakpoints: (
     'xlarge-2': 90em// 1440px
 );
 
-/**
- * Clearfix
- */
+/*----------  Clearfix  ----------*/
 %clearfix:after {
   content: "";
   display: table;
   clear: both;
 }
+
+/*----------  Font-family  ----------*/
+$base-font-family: 'roboto', sans-serif !default;
+$base-font-size:   14px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:    800px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+$browser-context: 16px;

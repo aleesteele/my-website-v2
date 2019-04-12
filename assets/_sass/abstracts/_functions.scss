@@ -2,17 +2,22 @@
 =            Functions            =
 =================================*/
 
-$browser-context: 16px;
-@function calculate-rem($size) {
-  $rem-size: $size / $browser-context;
-  @return #{$rem-size}rem;
+@import './variables';
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
 }
 
-@function return-map-value($map, $breakpoint) {
-  @if not map-has-key($map, $breakpoint) {
-    @warn "'#{$breakpoint}' is not a valid size";
-  }
-  @else {
-    @return map-get($map, $breakpoint);
-  } 
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
 }
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
