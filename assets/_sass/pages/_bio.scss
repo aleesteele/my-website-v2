@@ -11,13 +11,23 @@
     display: flex;
   }
 
-  &-link, a {
+  &-link {
     color: $color__grey;
-    cursor: pointer;
+    cursor: default;
 
     &:hover {
       color: $color__torquoise;
-      // text-decoration: underline;
+    }
+  }
+
+  a {
+    color: $color__grey;
+    font-style: italic;
+
+    &:hover {
+      color: $color__torquoise;
+      border-bottom: 2px $color__torquoise dashed;
+      text-decoration: none;
     }
   }
 

@@ -106,11 +106,12 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
   color: $color__grey;
+  font-style: italic;
   text-decoration: none;
 
   &:hover {
     color: $color__torquoise;
-    text-decoration: underline;
+    border-bottom: 2px $color__torquoise dashed;
   }
 
   .social-media-list &:hover {
