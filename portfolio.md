@@ -33,7 +33,7 @@ New York, USA
 * Investigated effects of mining on land and water bodies for "Expulsions" book by Sociologist Saskia Sassen (2016).
 * Used resident interviews, OpenStreetMaps, Google Maps data to track Harlem growth trends (2015).
 
-<h3 class="post-link">Select Experience</h3>
+<h3 class="post-link">Selected Experience</h3>
 * Putney Student Travel, National Geographic Student Expeditions – Expedition Guide – Washington DC, USA (2018-2019)
 * Center for Strategic and International Studies – Dracopolous iDeas Lab Intern – Washington DC, USA (2018-2019)
 * United Nations High Commissioner for Refugees (UNHCR) – Staff Intern – Madrid, Spain (2016)
