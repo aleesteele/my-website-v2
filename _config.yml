@@ -24,10 +24,10 @@ github_username:  aleesteele
 
 collections:
   posts:
-    title: Blog
+    title: Field Notes
     output: true
   portfolio:
-    title: Recent Work
+    title: Selected Work
     output: true
 
 defaults:
@@ -36,7 +36,7 @@ defaults:
       type: 'posts'
     values:
       layout: post-blog
-      permalink: '/blog/:slug/'
+      permalink: '/field-notes/:slug/'
   - scope:
       path: ''
       type: 'portfolio'
