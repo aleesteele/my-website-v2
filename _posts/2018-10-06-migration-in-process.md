@@ -9,4 +9,4 @@ categories:
 published: true
 
 ---
-Hello! I'm currently in the process of migrating my blog to `jekyll`. Check back soon for updates. Thanks!
+Hello all – I'm currently in the process of migrating my field notes, emails, and other projects to `jekyll`. Please check back soon for updates. Thanks!
