@@ -10,6 +10,15 @@ fields:
 - type: text
   name: title
   label: Title
+- name: date
+  type: datetime
+  description: date posted
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: date
 pages:
 - _posts/northern-dependency-in-south-america.md
 - _posts/2018-10-06-migration-in-process.md
