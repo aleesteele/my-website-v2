@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-blog
 title: Greetings from Geneva; Bringing back the blog!
 date: 2019-09-17 22:00:00 +0000
 
