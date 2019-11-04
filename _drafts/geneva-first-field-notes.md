@@ -1,6 +1,6 @@
 ---
 layout: post-blog
-title: 'Geneva: First Field Notes'
+title: 'First Impressions: On Mountains, Protests, and Fondue'
 date: 2019-10-26 22:00:00 +0000
 
 ---
