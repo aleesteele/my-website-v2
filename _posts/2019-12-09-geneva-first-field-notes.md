@@ -16,7 +16,7 @@ Walking back from the crag:
 
 ![](https://res.cloudinary.com/aleesteele/image/upload/v1582666548/climbing_b0ljni.jpg)
 
-Climate protesters, which were the same day as the Free Tibet protests:
+Young climate protests at the Global Climate Strike, which happened to be on the same day as the Free Tibet protests:
 
 ![](https://res.cloudinary.com/aleesteele/image/upload/v1582666597/climate_i1qw5n.jpg)
 
@@ -42,7 +42,7 @@ Finally, a photo of beautiful Lake Geneva at dusk:
 
 ![](https://res.cloudinary.com/aleesteele/image/upload/v1582668146/lake_geneva_night_tecm6v.jpg)
 
-Talk soon!
+Full disclosure: I post more frequently on (Instagram)[https://www.instagram.com/anneleesteele/]; but hope to return to longform and this blog soon. I may be posting the cycling stories I'd compiled from last summer hear as well, for posterity's sake. Until soon.
 
 Always,
 
