@@ -24,7 +24,7 @@ Climate protesters, which were the same day as the Free Tibet protests:
 
 Views of the Matterhorn:
 
-<img src="https://res.cloudinary.com/aleesteele/image/upload/v1582666677/mountain_j2kowj.jpg">
+![](https://res.cloudinary.com/aleesteele/image/upload/v1582666677/mountain_j2kowj.jpg)
 
 Fondue at one of my favorite places in Geneva (Bains des Pâquis):
 
