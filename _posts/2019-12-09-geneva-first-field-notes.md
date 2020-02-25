@@ -6,7 +6,7 @@ date: 2019-12-09 23:00:00 +0000
 ---
 Dear all,
 
-It's been a few months since I've arrived in Geneva. This is a fascinating place (though not without its challenges, of course), and I'm finally starting to feel settled. There's a lot to share, and that will take time to process, but I wanted to post a few photos of the past few months. I've been getting lots of mountain time, overdosing on politics, and studying up on 
+It's been a few months since I've arrived in Geneva. This is a fascinating place (though not without its challenges, of course), and I'm finally starting to feel settled. There's a lot to share, and that will take time to process, but I wanted to post a few photos of the past few months. I've been getting lots of mountain time, overdosing on politics, and studying up on just about everything. More on that later; but in a meantime, a few photos.
 
 A view from my flat:![](/v1582666518/room_with_a_view_gwikrm.jpg)
 
