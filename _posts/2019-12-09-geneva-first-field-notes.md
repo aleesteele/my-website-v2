@@ -10,7 +10,7 @@ It's been a few months since I've arrived in Geneva. This is a fascinating place
 
 A view from my flat:
 
-![](https://res.cloudinary.com/aleesteele/image/upload/v1582666518/room_with_a_view_gwikrm.jpg)Walking back from the crag:
+![geneva](https://res.cloudinary.com/aleesteele/image/upload/v1582666518/room_with_a_view_gwikrm.jpg "geneva")Walking back from the crag:
 
 ![](https://res.cloudinary.com/aleesteele/image/upload/v1582666548/climbing_b0ljni.jpg)
 
