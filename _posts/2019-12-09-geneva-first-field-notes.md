@@ -32,7 +32,11 @@ Fondue at one of my favorite places in Geneva (Bains des Pâquis):
 
 Many, many forums: on climate justice, on human-centred design, on Brazil's politique, on jewel auctions, and everything in between...
 
-![](https://res.cloudinary.com/aleesteele/image/upload/v1582668184/auction_pyabm6.jpg)![](https://res.cloudinary.com/aleesteele/image/upload/v1582666726/protest_1_j35xs4.jpg)![](https://res.cloudinary.com/aleesteele/image/upload/v1582668298/todo_bien_fs4te1.jpg)
+![](https://res.cloudinary.com/aleesteele/image/upload/v1582668184/auction_pyabm6.jpg)
+
+![](https://res.cloudinary.com/aleesteele/image/upload/v1582666726/protest_1_j35xs4.jpg)
+
+![](https://res.cloudinary.com/aleesteele/image/upload/v1582668298/todo_bien_fs4te1.jpg)
 
 Finally, a photo of beautiful Lake Geneva at dusk:
 
