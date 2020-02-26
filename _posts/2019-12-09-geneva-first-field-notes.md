@@ -42,7 +42,7 @@ Finally, a photo of beautiful Lake Geneva at dusk:
 
 ![](https://res.cloudinary.com/aleesteele/image/upload/v1582668146/lake_geneva_night_tecm6v.jpg)
 
-Full disclosure: I post more frequently on (Instagram)[https://www.instagram.com/anneleesteele/]; but hope to return to longform and this blog soon. I may be posting the cycling stories I'd compiled from last summer hear as well, for posterity's sake. Until soon.
+Full disclosure: I post more frequently on [Instagram](https://www.instagram.com/anneleesteele/); but will be returning to longform and this blog soon. I may be posting the cycling stories I'd compiled from last summer here as well, for posterity's sake. Until soon.
 
 Always,
 
