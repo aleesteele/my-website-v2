@@ -1,6 +1,6 @@
 ---
 layout: post-blog
-title: Notes on the American Empire
+title: 'Publication: Notes on the (American) Empire'
 date: 2020-03-09 23:00:00 +0000
 
 ---
