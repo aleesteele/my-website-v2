@@ -4,6 +4,7 @@ title: Selected Work
 permalink: "/portfolio/"
 
 ---
+
 <h3 class="post-link">Essays and Reporting</h3>
 * "Students March for BLM, Advocate for IHEID Reform". Published online in [The Graduate Press](https://thegraduatepress.org/2020/06/26/students-march-for-blm-advocate-for-iheid-reform/), (2020).
 * "More than 10,000 march in Geneva for Black Lives Matter Protest". Published online in [The Graduate Press](https://thegraduatepress.org/2020/06/15/more-than-10000-march-in-geneva-for-black-lives-matter-protest/), (2020).

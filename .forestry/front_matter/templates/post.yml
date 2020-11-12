@@ -20,13 +20,15 @@ fields:
     display_utc: false
   label: date
 pages:
-- _posts/geneva-first-field-notes.md
-- _posts/northern-dependency-in-south-america.md
 - _posts/2018-10-06-migration-in-process.md
-- _posts/other-ideas.md
-- _posts/do-digital-platforms-perpetuate-inequality.md
-- _posts/what-policy-advisory-can-learn-from-ux-and-design-thinking.md
-- _posts/the-geopolitics-of-rem.md
-- _posts/what-happens-to-electronic-waste.md
-- _posts/the-trans-siberian-railroad-myths-maps-more.md
+- _posts/2019-12-09-geneva-first-field-notes.md
+- _posts/2020-03-09-on-protests-revolutions-and-empire-notes-on-end.md
 - _posts/bhutan-s-forests.md
+- _posts/do-digital-platforms-perpetuate-inequality.md
+- _posts/northern-dependency-in-south-america.md
+- _posts/other-ideas.md
+- _posts/photos-from.md
+- _posts/the-geopolitics-of-rem.md
+- _posts/the-trans-siberian-railroad-myths-maps-more.md
+- _posts/what-happens-to-electronic-waste.md
+- _posts/what-policy-advisory-can-learn-from-ux-and-design-thinking.md
