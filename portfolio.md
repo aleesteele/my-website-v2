@@ -15,7 +15,7 @@ permalink: "/portfolio/"
 * Anne Lee Steele Photography. Featured in Racing Minds Mag, (2011).
 
 <h3 class="post-link">Academic Publications</h3>
-* "What counts as 'Field Work?'?: Experience and Ethnography in the Himalayas". Published online in [JUE, the Journal of Undergraduate Ethnography](https://ojs.library.dal.ca/JUE/).
+* "What counts as 'Field Work?'?: Experience and Ethnography in the Himalayas". Published online in [JUE, the Journal of Undergraduate Ethnography](https://ojs.library.dal.ca/JUE/) (pending).
 * "Investigating the Global and Local in Wangchuck Centennial National Park: A Case for the Bhutanese Conservation Actors In-Between". Published online in [Consilience, the Journal for Sustainable Development](https://consiliencejournal.org/article/investing-the-global-and-local-in-wangchuck-centennial-national-park-a-case-for-the-bhutanese-conservation-actors-in-between/), (2018).
 * "Mobility as Multi-Dimensional: Forest Governance at Wangchuck Centennial National Park and Beyond", final directed research project from semester-long field research program in Bhutan, presented to Royal Government of Bhutan officials, researchers and scientists (2017).
 * "Economic Empowerment or Environmental Impoverishment? Perspectives on the ‘War on Coal’". Analyzed historical US census data to report on energy, mining industries on American Indigenous reservations (unpublished, 2016).
@@ -28,6 +28,10 @@ permalink: "/portfolio/"
 * Stephenson Ocean Security Project, Center for Strategic and International Studies. Assisted with web development. (2019) – [Oceans](http://ocean.csis.org)
 * The CSIS Commission on Strengthening American Health Security, Center for Strategic and International Studies. Assisted with web development. (2018) – [HealthSecurity](https://healthsecurity.csis.org/)
 * [Global Cities](https://www.goo.gl/F4E3nS), a three.js visualization (2017)
+
+<h3 class="post-link">Presentations</h3>
+* "The Social Life of Supply Chains". Presented at the Critical Theory Reading Group, The Graduate Institute. Geneva, Switzerland (2020).
+* "Governance on the Ground: Forestry Civil Service Mobility at Wangchuck Centennial National Park and Beyond". Presented at Department of Forest and Part Services and Ugyen Wangchuck Institute for Conservation and Environmental Research (2017).
 
 <h3 class="post-link">Other</h3>
 * Photographed congressional hearings for interactive reports by [CSIS iLab](https://www.csis.org/analysis?=&type=feature) (2018).
