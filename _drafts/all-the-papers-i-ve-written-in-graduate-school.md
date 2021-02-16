@@ -6,9 +6,18 @@ date: 2021-01-17 20:00:00 +0000
 ---
 Dear all,
 
-Man, so much for using this blog! Sorry about the long break. Between graduate school and the pandemic, I've been struggling to keep with writing regularly for anything not directly related to work and research.
+So much for using this blog! Sorry about the long break. Between graduate school and the pandemic, I've been struggling to keep up with writing regularly for anything not directly related to work and research.
 
-The funny thing about having a blog during times of Twitter, Instagram, Medium, and Substack is that blogging feels distinctly. I love that I own the information (I think! Does my CMS system, Forestry.io own it?)
+The funny thing about having a blog during times of Twitter, Instagram, Medium, Substack, and TinyLetter is that blogging feels distinctly like speaking into the abyss. What role do they play these days? There's no ready-set audience, no possibility of payment, no algorithmic recommendation system. There's no comment section for feedback. No google ad-words. Just me and my lonely CMS, writing into/at the digital abyss. 
+
+Yet, there's something that I really like about this space. It feels like my own little patch of the world wide web. I guess in a lot of ways, it feels like a [digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/). I'm currently building one for thoughts that aren't blog-worthy, but 
+
+This POV has two problems. The first is the obvious one – why do these musings have to be public in the first place?
+
+1. What is the role of a diary anymore?
+2. 
+
+But, it's weird to recognize how used I am to real-time feedback, and the call/response that social platforms give content makers of any time.
 
 Graduate school has been a trip. In many ways, it
 
@@ -16,7 +25,6 @@ Graduate school has been a trip. In many ways, it
 
 * Studying People & Their Politics: A Brief Investigation
 
-This paper wa s
 
 * Power and Influence at the Universal Periodic Review: A Network Analysis of UPR Testimonies on Business and Human Rights
 * Refining Coltan, Erasing Violence: Three Approaches to Coltan Mining in the Congo
@@ -47,4 +55,6 @@ I also had to give a few presentations about some of the topics, and a few other
 
 * 
 * Leyendos de Litio:
-* Open Knowledge Foundation
+* Open Knowledge Foundation F
+
+##### More... coming soon!
