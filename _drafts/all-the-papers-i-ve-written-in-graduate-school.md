@@ -10,12 +10,11 @@ So much for using this blog! Sorry about the long break. Between graduate school
 
 The funny thing about having a blog during times of Twitter, Instagram, Medium, Substack, and TinyLetter is that blogging feels distinctly like speaking into the abyss. What role do they play these days? There's no ready-set audience, no possibility of payment, no algorithmic recommendation system. There's no comment section for feedback. No google ad-words. Just me and my lonely CMS, writing into/at the digital abyss. 
 
-Yet, there's something that I really like about this space. It feels like my own little patch of the world wide web. I guess in a lot of ways, it feels like a [digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/). I'm currently building one for thoughts that aren't blog-worthy, but 
+Yet, there's something that I really like about this space. It feels like my own little patch of the world wide web. I guess in a lot of ways, it feels like a [digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/), something that I own in a digital world populated by proprietary platforms. I'm currently building one for thoughts that aren't blog-worthy, to do [open ethnography](https://ethnographymatters.net/blog/2012/08/02/writing-live-fieldnotes-towards-a-more-open-ethnography/) and [live fieldnotes](https://www.ethnography.com/2012/08/this-week-in-ethnography-writing-live-fieldnotes-with-social-media-towards-a-more-open-ethnography-ethnography-matters/) for anyone who might be interested.
 
-This POV has two problems. The first is the obvious one – why do these musings have to be public in the first place?
+This "open" approach to writing has two problems. The first is an obvious one – why do these musings have to be public in the first place?
 
-1. What is the role of a diary anymore?
-2. 
+I struggle with this one the most. When listening to a podcast about [_Life by Algorithms_](https://podcasts.apple.com/ca/podcast/c-besteman-h-gusterson-life-by-algorithms-how-roboprocesses/id425683368?i=1000488461179)_,_ a new book by C. Besteman and H. Gusterson, the authors were pretty bleak. "The age of privacy is over," they said. Does this mean that the age of private thoughts is over, too? Do the photos that I took of my grandmother mean anything, when I don't share them with her? Or with anyone else at all?
 
 But, it's weird to recognize how used I am to real-time feedback, and the call/response that social platforms give content makers of any time.
 
