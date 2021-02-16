@@ -1,7 +1,7 @@
 ---
 layout: post-blog
 title: Thinking and Writing about 'Open'-ness
-date: 2021-01-17 20:00:00 +0000
+date: 2021-01-17T20:00:00.000+00:00
 
 ---
 Dear all,
