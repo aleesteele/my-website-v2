@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Field Notes
-permalink: "/field-notes/"
+title: Blog
+permalink: "/blog/"
 ---

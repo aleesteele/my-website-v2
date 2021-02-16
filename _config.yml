@@ -24,7 +24,7 @@ github_username:  aleesteele
 
 collections:
   posts:
-    title: Field Notes
+    title: Blog
     output: true
   portfolio:
     title: Selected Work
