@@ -18,7 +18,7 @@ I struggle with this one the most. When listening to a podcast about [_Life by A
 
 But, it's weird to recognize how used I am to real-time feedback, and the call/response that social platforms give content makers of any time.
 
-Graduate school has been a trip. In many ways, it
+In any case, I thought I would release every paper, project, and presentation I've done in graduate school. Because these projects likely won't see the light of day (except for when I forcibly try to drop them in everyday conversation) ___
 
 ### Papers
 
