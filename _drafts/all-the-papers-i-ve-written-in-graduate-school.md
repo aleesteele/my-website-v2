@@ -1,6 +1,6 @@
 ---
 layout: post-blog
-title: Every paper, project, and presentation I've done in grad school
+title: On 'open'-ness in the age of the internet
 date: 2021-01-17 20:00:00 +0000
 
 ---
@@ -16,44 +16,12 @@ This "open" approach to writing has two problems. The first is an obvious one �
 
 I struggle with this one the most. When listening to a podcast about [_Life by Algorithms_](https://podcasts.apple.com/ca/podcast/c-besteman-h-gusterson-life-by-algorithms-how-roboprocesses/id425683368?i=1000488461179)_,_ a new book by C. Besteman and H. Gusterson, the authors were pretty bleak. "The age of privacy is over," they said. Does this mean that the age of private thoughts is over, too? Do the photos that I took of my grandmother mean anything, when I don't share them with her? Or with anyone else at all?
 
-But, it's weird to recognize how used I am to real-time feedback, and the call/response that social platforms give content makers of any time.
+The pressure to join social platforms and to live in a public way is itself well-documented. Because the majority of [social and public life is on proprietary platforms](), especially during the pandemic, and because influencers have shown time and time again how [fame on the internet can lead lead to fame in real life](https://www.wired.com/story/what-is-an-influencer/). 
 
-In any case, I thought I would release every paper, project, and presentation I've done in graduate school. Because these projects likely won't see the light of day (except for when I forcibly try to drop them in everyday conversation) ___
+I really liked this article by [Caroline Busta](https://www.documentjournal.com/author/caroline-busta/ "Posts by Caroline Busta") about counterculture in the age of the internet, and how .
 
-### Papers
+> So what does today’s counter-hegemonic culture look like? It’s not particularly interested in being seen... But it does demonstrate a hunger for freedom—freedom from the attention economy, from atomization, and the extractive logic of mainstream communication. We can imagine collectively held physical spaces reclaimed from empty retail or abandoned venues hosting esoteric local scenes... deeper and closer connections made between people even while rejecting the platform’s compulsion to “like and share.” In the internet era, true counterculture is difficult to see, and even harder to find—but that doesn’t mean it’s not there.
 
-* Studying People & Their Politics: A Brief Investigation
+But, on the other hand, we have never existed in a better time to actually engage with different publics, and experiment with new ways of doing things. Yes, the fear of engaging with ([false consensus](https://en.wikipedia.org/wiki/False_consensus_effect)) or having friends that are exactly like yourself ([homophily](https://www.washingtonpost.com/archive/politics/2006/10/16/why-everyone-you-know-thinks-the-same-as-you/0560e849-925e-42ca-a786-861d93db3dfa/)). But it's weird to recognize how used I am to real-time feedback, and the call/response that social platforms give content makers of any time.
 
-
-* Power and Influence at the Universal Periodic Review: A Network Analysis of UPR Testimonies on Business and Human Rights
-* Refining Coltan, Erasing Violence: Three Approaches to Coltan Mining in the Congo
-* Representing the Naxalites: the Written Walks to Two Women
-* Towards a Critical Anthropology of Business and Human Rights
-* Towards an Anthropology of Corporate  Ethics
-* Human(itarian)-Centered Designs in the Silicon Savannah
-* Unpacking the Strange Fruits of Archival Labour: A semester-long dive into the archives of the International Labour Organisation (ILO)
-* Social Movements During Social Distancing: An Ethnographic Vignette of Extinction Rebellion during COVID-19
-* On the Mystical Foundations of Legal Authority: On the Indigenous Right to Property and Environment in Argentina
-* Between 'do good' and 'don't be evil': on the ethical landscapes of Google's stratospheric internet balloons
-* The State and/of the Map
-* Crowdsourced crisis-mapping & the infrastructure of open-source information
-* Open-source Humanitarianism: A study of online communities, crowdsourcing & corporations
-
-### Presentations
-
-* Experience and Ethnography in the Himalayas
-* The Graduate Press: Orientation Month 2020
-* Pierre Bourdieu: Theory of Practice
-* The Social Life of Supply Chains
-* Anthropology of Nature and Ontological Turn
-* Global Theory
-
-I also had to give a few presentations about some of the topics, and a few others for for classes. I don't count those, though.
-
-### Projects
-
-* 
-* Leyendos de Litio:
-* Open Knowledge Foundation F
-
-##### More... coming soon!
+##### 
