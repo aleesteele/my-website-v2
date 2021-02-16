@@ -1,6 +1,6 @@
 ---
 layout: post-blog
-title: On 'open'-ness in the age of the internet
+title: Thinking and Writing about 'Open'-ness
 date: 2021-01-17 20:00:00 +0000
 
 ---
