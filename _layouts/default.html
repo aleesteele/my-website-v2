@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
+	{% if page.image %}
+ 	 <meta property="og:image" content="assets/images/mountains.jpg">
+	{% else %}
+  	<meta property="og:image" content="assets/images/mountains.jpg">
+	{% endif %}
 
   {%- include head.html -%}
 
