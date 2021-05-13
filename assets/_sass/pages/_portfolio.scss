@@ -18,7 +18,7 @@
       color: $color__grey;
 
       &:hover {
-        color: $color__torquoise;
+        color: $color_green;
       }
     }
   }
@@ -28,8 +28,8 @@
     font-style: italic;
 
     &:hover {
-      color: $color__torquoise;
-      border-bottom: 2px $color__torquoise dashed;
+      color: $color_green;
+      border-bottom: 2px $color_green dashed;
       text-decoration: none;
     }
   }
