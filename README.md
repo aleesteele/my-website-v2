@@ -6,6 +6,11 @@ __Jekyll starter kit including full setup for gulp, Sass, Autoprefixer, PostCSS,
 
 https://ixkaito.github.io/frasco/
 
+## Run on local server
+
+`bundle exec jekyll serve`
+Check on `http://127.0.0.1:4000/`
+
 ## Copyright / License
 
 Copyright © 2015 the contributors of the Frasco project under the [MIT License](https://github.com/ixkaito/frasco/blob/master/LICENSE).
