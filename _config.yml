@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Website for Anne Lee Steele
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: anneleesteele
+twitter_username: aleesteele
 github_username:  aleesteele
 
 collections:
@@ -37,12 +37,6 @@ defaults:
     values:
       layout: post-blog
       permalink: '/field-notes/:slug/'
-  - scope:
-      path: ''
-      type: 'portfolio'
-    values:
-      layout: post-portfolio
-      permalink: '/portfolio/:slug/'
 
 markdown: kramdown
 

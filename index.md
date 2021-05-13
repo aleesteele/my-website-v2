@@ -1,4 +1,6 @@
 ---
 title: Home
-layout: bio
+layout: default
 ---
+
+{%- include bio.html -%}
